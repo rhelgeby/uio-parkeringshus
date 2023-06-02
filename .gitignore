@@ -1,0 +1,6 @@
+/target
+
+# Ignore Eclipse-files
+/.settings/
+.classpath
+.project
